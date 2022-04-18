@@ -1,0 +1,1 @@
+Nursing, "Trained in knowledge, techniques, and procedures providing health and well-being for the ill, elderly, disabled, or where otherwise needed. Also communicates administration of medication and treatments, assisting a physician, and refer patients to other doctors concerning health.", 60000, "ER Nurse, Licensed Practical Nurse, Neonatal Nurse, Legal Nurse Consultant"
